@@ -11,14 +11,14 @@ This Node.js application generates QR codes for specified URLs. Follow the steps
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/Krishnakokate/QR-Code-Generator.git
 
 2. Navigate to the project directory:
   ```bash
-  cd qr-code-generator
+   cd qr-code-generator
 
 3. Install dependencies:
-  ```bash
+   ```bash
   npm install
 
-## Usage
+## Usage 
