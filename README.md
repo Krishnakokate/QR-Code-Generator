@@ -19,7 +19,7 @@ This Node.js application generates QR codes for specified URLs. Follow the steps
 
 3. Install dependencies:
    ```bash
-  npm install
+   npm install
 
 ## Usage 
 1. Run the application:
